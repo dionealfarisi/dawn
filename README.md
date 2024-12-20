@@ -2,7 +2,7 @@
 # Dawn Validator Bot
 
 ## Description
-This script automates account validation on a specific platform. It uses proxies and accounts loaded from external files.
+This script automates account validation on a dawn platform. It uses proxies and accounts loaded from external files.
 
 ## Installation
 
